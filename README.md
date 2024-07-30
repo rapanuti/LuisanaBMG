@@ -1,6 +1,7 @@
 # Hi there 👋, Luisana here. 
 
-<img align="right" width=300px alt="Unicorn" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-4563721-3817229.mp4" />
+<img align="right" width=300px alt="Unicorn" src="https://img.freepik.com/vector-premium/mujer-programadora-trabajando-nuevo-proyecto_701961-1111.jpg" />
+
 
 
 https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif
