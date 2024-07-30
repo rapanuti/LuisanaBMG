@@ -2,10 +2,6 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://img.freepik.com/vector-premium/mujer-programadora-trabajando-nuevo-proyecto_701961-1111.jpg" />
 
-
-
-https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif
-
 ¡Hola! Soy estudiante de Ingeniería de Sistemas con una profunda pasión por el desarrollo backend. Mi objetivo es especializarme en esta área para construir sistemas robustos y eficientes. 
 
 Me considero una persona muy responsable y organizada, cualidades que considero esenciales para garantizar que cada proyecto sea exitoso. Aunque mi principal interés está en el desarrollo backend, también tengo una curiosidad saludable por las bases de datos. Estoy convencida de que entender cómo se gestionan y optimizan los datos es crucial para asegurar el buen funcionamiento de las aplicaciones que desarrollo.
