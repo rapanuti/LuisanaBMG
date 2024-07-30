@@ -1,6 +1,4 @@
 # Hi there 👋, Luisana here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
-
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -23,10 +21,16 @@ Siempre estoy buscando aprender y mejorar mis habilidades, y me encanta enfrenta
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuisanaBMG&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisanaBMG&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=LuisanaBMG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=LuisanaBMG&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
+
+
 
