@@ -1,6 +1,6 @@
 # Hi there 👋, Luisana here. 
 
-<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-4563721-3817229.mp4)" />
+<img align="right" width=300px alt="Unicorn" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-4563721-3817229.mp4" />
 
 
 https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif
@@ -24,9 +24,6 @@ Siempre estoy buscando aprender y mejorar mis habilidades, y me encanta enfrenta
 
 </div>
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LuisanaBMG&icon=2&color=1)](https://visitcount.itsvg.in)
