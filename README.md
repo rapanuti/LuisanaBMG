@@ -24,8 +24,9 @@ Siempre estoy buscando aprender y mejorar mis habilidades, y me encanta enfrenta
 
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LuisanaBMG&icon=2&color=1)](https://visitcount.itsvg.in)
