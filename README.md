@@ -1,6 +1,6 @@
 # Hi there 👋, Luisana here. 
 
-<img align="right" width=300px alt="Unicorn" src="https://img.freepik.com/vector-premium/mujer-programadora-trabajando-nuevo-proyecto_701961-1111.jpg" />
+<img align="right" width=300px alt="Unicorn" src="https://iconscout.com/lottie-animation/female-developer-working-on-data-analytics-8636701" />
 
 ¡Hola! Soy estudiante de Ingeniería de Sistemas con una profunda pasión por el desarrollo backend. Mi objetivo es especializarme en esta área para construir sistemas robustos y eficientes. 
 
@@ -13,6 +13,7 @@ Siempre estoy buscando aprender y mejorar mis habilidades, y me encanta enfrenta
 
 <div>
 
+https://img.freepik.com/vector-premium/mujer-programadora-trabajando-nuevo-proyecto_701961-1111.jpg
 
 ![](https://github-readme-stats.vercel.app/api?username=LuisanaBMG&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuisanaBMG&theme=transparent&hide_border=false)<br/>
@@ -20,6 +21,14 @@ Siempre estoy buscando aprender y mejorar mis habilidades, y me encanta enfrenta
 
 
 </div>
+
+<h2>📊 My github Stats</h2>
+<div>
+
+
+
+</div>
+
 
 
 ---
