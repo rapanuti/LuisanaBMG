@@ -1,6 +1,6 @@
 # Hi there 👋, Luisana here. 
 
-<img align="right" width=300px alt="Unicorn" src="https://iconscout.com/lottie-animation/female-developer-working-on-data-analytics-8636701" />
+<img align="right" width=300px src="https://img.freepik.com/vector-premium/mujer-programadora-trabajando-nuevo-proyecto_701961-1111.jpg" />
 
 ¡Hola! Soy estudiante de Ingeniería de Sistemas con una profunda pasión por el desarrollo backend. Mi objetivo es especializarme en esta área para construir sistemas robustos y eficientes. 
 
@@ -13,7 +13,6 @@ Siempre estoy buscando aprender y mejorar mis habilidades, y me encanta enfrenta
 
 <div>
 
-https://img.freepik.com/vector-premium/mujer-programadora-trabajando-nuevo-proyecto_701961-1111.jpg
 
 ![](https://github-readme-stats.vercel.app/api?username=LuisanaBMG&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuisanaBMG&theme=transparent&hide_border=false)<br/>
@@ -22,13 +21,16 @@ https://img.freepik.com/vector-premium/mujer-programadora-trabajando-nuevo-proye
 
 </div>
 
-<h2>📊 My github Stats</h2>
+<h2>📋 Languages</h2>
 <div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
 </div>
-
 
 
 ---
