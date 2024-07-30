@@ -18,7 +18,7 @@ Siempre estoy buscando aprender y mejorar mis habilidades, y me encanta enfrenta
 
 <div>
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=LuisanaBMG&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuisanaBMG&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisanaBMG&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -27,3 +27,6 @@ Siempre estoy buscando aprender y mejorar mis habilidades, y me encanta enfrenta
 [![](https://visitcount.itsvg.in/api?id=LuisanaBMG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+---
+[![](https://visitcount.itsvg.in/api?id=LuisanaBMG&icon=2&color=1)](https://visitcount.itsvg.in)
+
