@@ -34,7 +34,11 @@ I am always looking to learn and improve my skills, and I love facing new challe
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+<div>
+  
+A developer with a great talent for analyzing and solving computer problems with a great ability to solve soft problems
 
+</div>
 
 
 ---
