@@ -8,6 +8,7 @@ I consider myself a very responsible and organized person, qualities that I cons
 
 I am always looking to learn and improve my skills, and I love facing new challenges in the programming world. My goal is to continue to grow as a developer and contribute innovative solutions that make a difference. 💻🤩
 
+Good partner and best support for personal development
 
 <h2>📊 My github Stats</h2>
 
